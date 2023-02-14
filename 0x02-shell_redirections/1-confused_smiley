@@ -1,2 +1,2 @@
-#!/bin/bash
-gat '"(Ôo)'\'
+#!/bin/bash 
+echo '"(Ôo)'\'
